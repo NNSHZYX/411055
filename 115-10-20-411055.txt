@@ -1,0 +1,23 @@
+<！DOCTYPE html>
+
+<html>
+<head>
+	<！--head 放網頁設定與標題-->
+	<meta charset="UTF-8">
+	<title>第一次寫網頁</title>
+</head>
+
+<body>
+	<！--body 網頁中間實際顯示的內容-->
+	<hl style="font-size:60px;colar:red">
+		我的學習檔案
+	</hl>
+
+	<p style="font-size:100px;color:blue">
+		<a href="https://www.google.com">
+			+65姓名 : 鄭宇璿
+		</a>
+	</p>
+	<img src="hsiangyu.jpg">
+</body>
+</html>	
